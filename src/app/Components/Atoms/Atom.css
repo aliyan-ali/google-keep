@@ -1,0 +1,15 @@
+.menu-logo {
+    padding: 12px 15px 6px 15px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.menu-logo:hover{
+    background-color: rgba(225, 225, 225, 0.811);
+}
+.logo-img {
+    padding-right: 20px;
+}
+
+/* .Searchicon { */
+/*      */
+/* } */

@@ -1,0 +1,9 @@
+.navbar-conrtainer-one {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar-conrtainer-one span {
+    color: rgba(0, 0, 0, 0.442);
+    font-size: 1.5rem;
+}
