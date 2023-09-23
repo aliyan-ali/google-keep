@@ -6,7 +6,7 @@
 
 
 body {
-  margin: 0xp;
+  margin: 0px;
   /* max-width: 100vw; */
   /* overflow-x: hidden; */
 }
@@ -26,3 +26,15 @@ a {
   text-decoration: none;
 }
 
+img {
+  padding: 10px 11px 8px 11px;
+  cursor: pointer;
+  border-radius: 50px;
+  color: rgba(24, 24, 24, 0.544);
+
+  /* color: black; */
+}
+
+img:hover {
+  background-color: rgba(225, 225, 225, 0.811);
+}
